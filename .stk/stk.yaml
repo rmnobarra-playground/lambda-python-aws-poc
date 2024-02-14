@@ -8,6 +8,7 @@ metadata:
   stack: lambda-python-aws@2.0.0
 spec:
   type: app
+  app-id: 01HPM5P97JPPSBW7VBFRYKPEK4
   plugins:
     - name: acme/lambda-python-aws@2.0.0/lambda-python@0.0.1
       alias: lambda-python-1707926487518
